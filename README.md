@@ -62,7 +62,7 @@ Each waveform offers a different tonal character that can mimic parts of gamelan
 
 ## 🧠 Credits
 
-- Built with ❤️ by [@alqipne](https://www.instagram.com/wynyogi)
+- Built with ❤️ by [@wynyogi](https://www.instagram.com/wynyogi)
 - Inspired by traditional Balinese gamelan scale.
 
 ---
