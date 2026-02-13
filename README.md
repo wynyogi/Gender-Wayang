@@ -1,9 +1,9 @@
-# 🎼 Gender Wayang by @alqipne
+# 🎼 Gender Wayang by @wynyogi
 
 A simple and responsive web-based Gender Wayang simulator using Web Audio API.  
 Play traditional gamelan tones mapped to numbers **1–0** using either your **keyboard** or by **tapping on-screen buttons** — works great on both desktop and mobile devices.
 
-## [PLAY HERE](https://alqipne.github.io/Gender-Wayang/)
+## [PLAY HERE](https://wynyogi.github.io/Gender-Wayang/)
 
 ---
 
@@ -62,7 +62,7 @@ Each waveform offers a different tonal character that can mimic parts of gamelan
 
 ## 🧠 Credits
 
-- Built with ❤️ by [@alqipne](https://www.instagram.com/alqipne)
+- Built with ❤️ by [@alqipne](https://www.instagram.com/wynyogi)
 - Inspired by traditional Balinese gamelan scale.
 
 ---
